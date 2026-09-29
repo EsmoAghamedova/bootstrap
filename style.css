@@ -1,0 +1,10 @@
+.section-1 {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.section-2 {
+    display: flex;
+    margin: 32px 60px;
+    justify-content: space-around;    
+}
